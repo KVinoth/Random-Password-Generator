@@ -17,6 +17,3 @@ for i in range(numofpw):
     print(pwd)
 
 print("Welcome Come again...")
-
-
-
